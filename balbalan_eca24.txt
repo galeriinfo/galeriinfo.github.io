@@ -1691,25 +1691,25 @@ https://kora-sa.live/hls/0/stream.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/4F3WDJf/Badminton-bjotv.png",COURT 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/JFKBdG1/Live-Streaming-End.jpg",COURT 1
 #EXTGRP: BADMINTON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://lebo.huminbird.cn/live/ballbar_11780.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/4F3WDJf/Badminton-bjotv.png",COURT 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/JFKBdG1/Live-Streaming-End.jpg",COURT 2
 #EXTGRP: BADMINTON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://lebo.huminbird.cn/live/ballbar_27940.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/4F3WDJf/Badminton-bjotv.png",COURT 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/JFKBdG1/Live-Streaming-End.jpg",COURT 3
 #EXTGRP: BADMINTON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://lebo.huminbird.cn/live/ballbar_24130.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/4F3WDJf/Badminton-bjotv.png",COURT 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/JFKBdG1/Live-Streaming-End.jpg",COURT 4
 #EXTGRP: BADMINTON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://lebo.huminbird.cn/live/ballbar_24130.m3u8
