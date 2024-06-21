@@ -1718,13 +1718,13 @@ https://lebo.huminbird.cn/live/ballbar_24130.m3u8
 ===========VNL===========
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/4F3WDJf/Badminton-bjotv.png",VNL 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/M6CpP6H/VNL.jpg",VNL 1
 #EXTGRP: VOLLEYBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://lebo.huminbird.cn/live/ballbar_23320.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/4F3WDJf/Badminton-bjotv.png",VNL 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/M6CpP6H/VNL.jpg",VNL 2
 #EXTGRP: VOLLEYBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://lebo.huminbird.cn/live/ballbar_26570.m3u8
