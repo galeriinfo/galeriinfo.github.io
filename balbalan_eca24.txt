@@ -1641,45 +1641,45 @@ https://toxicify.pro/chal/stream.php?id=sony-ten-5-hd&e=.m3u8
 ===========COPA AMERICA 2024===========
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/D4qb530/copaamerica2024.png",COPA AMERICA 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/D4qb530/copaamerica2024.png",COPAMERICA 1
 #EXTGRP: COPAAMERICA24
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/D4qb530/copaamerica2024.png",COPA AMERICA 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/D4qb530/copaamerica2024.png",COPAMERICA 2
 #EXTGRP: COPAAMERICA24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/D4qb530/copaamerica2024.png",COPA AMERICA 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/D4qb530/copaamerica2024.png",COPAMERICA 3
 #EXTGRP: COPAAMERICA24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/D4qb530/copaamerica2024.png",COPA AMERICA 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/D4qb530/copaamerica2024.png",COPAMERICA 4
 #EXTGRP: COPAAMERICA24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist_1024x576.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/D4qb530/copaamerica2024.png",COPA AMERICA 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/D4qb530/copaamerica2024.png",COPAMERICA 5
 #EXTGRP: COPAAMERICA24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/D4qb530/copaamerica2024.png",COPA AMERICA 6
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/D4qb530/copaamerica2024.png",COPAMERICA 6
 #EXTGRP: COPAAMERICA24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/D4qb530/copaamerica2024.png",COPA AMERICA 7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/D4qb530/copaamerica2024.png",COPAMERICA 7
 #EXTGRP: COPAAMERICA24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://kora-sa.live/hls/0/stream.m3u8
