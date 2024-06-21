@@ -1727,7 +1727,7 @@ https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/M6CpP6H/VNL.jpg",VNL 2
 #EXTGRP: VOLLEYBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://lebo.huminbird.cn/live/ballbar_10260.m3u8
+https://lebo.huminbird.cn/live/ballbar_19190.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/VHhQ3yd/Proliga-bjotv.jpg",PROLIGA
