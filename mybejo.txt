@@ -1,5 +1,13 @@
 ===========HBO Group=================
 
+#EXTGRP: MOVIE
+#EXTINF:-1 tvg-logo="https://link.zozotv.xyz/logozozo.jpg" group-title="CINEMA",HBO Hits
+http://link.zozotv.xyz:8080/zozo/1234/1486
+
+#EXTGRP: MOVIE
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="CINEMA", HBO HITS (OS9)
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/47
+
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
