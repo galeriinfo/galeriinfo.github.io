@@ -1,1 +1,9 @@
+===========HBO Group=================
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png",HBO HiTS
+#EXTGRP: HBO GROUP
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1e570be4c63326aa95ea53eb5be2699:f9d709f24054472ab7f53c758cf45c94
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
